@@ -1,7 +1,7 @@
 
 # `curl` Command Examples
 
-`curl` is a versatile command-line tool used for transferring data with URLs. It supports various protocols, including HTTP, HTTPS, FTP, and more. Below are some common usages of `curl` commands.
+`curl` supports HTTP, HTTPS, FTP, Command list below
 
 ## 1. Basic `GET` Request
 
@@ -118,6 +118,8 @@ curl -x http://proxyserver:port https://www.example.com/
 ```
 
 The `-x` option specifies the proxy server and port to use for the request.
+
+Emi Roberti - Happy coding
 
 ---
 
